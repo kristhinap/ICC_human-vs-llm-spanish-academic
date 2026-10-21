@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Data (no subir corpus por derechos de autor)
+data/
+*.csv
+*.xlsx
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
