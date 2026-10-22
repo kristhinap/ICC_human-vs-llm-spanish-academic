@@ -74,7 +74,7 @@ Puedes usar, compartir y adaptar el material siempre que cites la fuente.
 ## Cita
 
 ```
-Kristhi, D. (2026). Comparación de patrones léxicos, sintácticos y de coherencia 
+Perez, D. (2026). Comparación de patrones léxicos, sintácticos y de coherencia 
 macroestructural en textos académicos en español: escritura humana vs. generada por LLM. 
 [Tesis de maestría]. Repositorio: https://github.com/kristhinap/ICC_human-vs-llm-spanish-academic
 ```
