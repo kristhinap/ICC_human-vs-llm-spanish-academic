@@ -34,8 +34,6 @@ El estudio trabaja con tres corpus de textos académicos en español sobre creat
 
 Cada corpus incluye resumen, introducción y conclusiones de 52 artículos (156 textos por corpus, 468 en total).
 
-> **Nota:** Los corpus no se distribuyen en este repositorio por derechos de autor sobre los artículos originales.
-
 ## Formato de entrada
 
 Ambos notebooks esperan un archivo Excel con la siguiente estructura:
@@ -49,6 +47,7 @@ Ambos notebooks esperan un archivo Excel con la siguiente estructura:
 - **Formato**: `.xlsx`
 - **Nombre del archivo**: `Corpus_humano.xlsx` (ajustable en la primera celda del notebook)
 - **Una fila por artículo**
+- **Nombre de las columnas**: Deben estar nombradas como cada una de las secciones con o sin mayúscula inicial y sin tildes. ('Resumen', 'resumen', 'introduccion', 'Introduccion', 'Conclusiones', 'conclusiones')
 
 ## Replicación
 
