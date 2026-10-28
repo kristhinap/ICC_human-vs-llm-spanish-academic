@@ -3,7 +3,7 @@
 Este repositorio acompaña el artículo:
 
 > *Comparación de patrones léxicos, sintácticos y de coherencia macroestructural en textos académicos en español: escritura humana vs. generada por LLM*  
-> Diana Kristhi — Maestría en Lingüística, 2026
+> Diana Pérez — Maestría en Lingüística, 2026
 
 ## Descripción
 
@@ -18,7 +18,7 @@ Corpus y código de análisis lingüístico comparativo entre textos académicos
 │   ├── analisis_lexico_semantico.ipynb  # Preprocesamiento, embeddings, LDA y coherencia
 │   └── analisis_sintactico.ipynb        # POS tagging, patrones verbales y complejidad oracional
 ├── docs/
-│   └── registro_cambios.docx          # Registro de revisiones del artículo
+│   └── referencias.md          # Listado de las referencias utilizadas
 └── README.md
 ```
 
