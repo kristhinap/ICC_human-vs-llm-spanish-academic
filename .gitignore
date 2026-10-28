@@ -9,7 +9,6 @@ venv/
 # Data (no subir corpus por derechos de autor)
 data/
 *.csv
-*.xlsx
 *.json
 
 # OS

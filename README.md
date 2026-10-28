@@ -18,7 +18,11 @@ Corpus y código de análisis lingüístico comparativo entre textos académicos
 │   ├── analisis_lexico_semantico.ipynb  # Preprocesamiento, embeddings, LDA y coherencia
 │   └── analisis_sintactico.ipynb        # POS tagging, patrones verbales y complejidad oracional
 ├── docs/
-│   └── referencias.md          # Listado de las referencias utilizadas
+│   └── referencias.md              # Listado de las referencias utilizadas
+│   └── Corpus_humano.xlsx          # Archivo excel con todos los textos del corpus humano
+│   └── Corpus_ChatGPT.xlsx         # Archivo excel con todos los textos del corpus generado con ChatGPT
+│   └── Corpus_Copilot.xlsx         # Archivo excel con todos los textos del corpus generado con Copilot
+
 └── README.md
 ```
 
